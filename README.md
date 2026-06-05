@@ -23,6 +23,8 @@
 </div>
 
 ---
+!IMPORTANTE
+OBS: O video apresentado não fala diretamente do código, o vídeo e para intuito de aprendizado do nosso projeto e para a nossa solução.
 
 ## 🌍 O Problema
 
@@ -58,6 +60,8 @@ O projeto está diretamente alinhado ao tema **Space Connect — Soluções Tecn
 | ⚡ **Energia** | Previsão de geração solar e eólica baseada em cobertura de nuvens e vento |
 | 🏙️ **Cidades Inteligentes** | Monitoramento climático urbano em tempo real |
 
+| Link para o video explicativo |
+https://youtu.be/7muR2l4k3fc
 ---
 
 ## 📊 Sobre os Dados
